@@ -19,10 +19,10 @@ I've been learning code for 5 years since i went to university. I'm currently wo
 ### Socials
 
 <p align="left">
-  <a href="https://www.facebook.com/bazzazi" target="_blank" rel="noreferrer"> <img src="https://github.com/bazzazi/RequiredImages/blob/main/facebook.png" width="32px"/></a>
-  <a href="https://www.github.com/bazzazi" target="_blank" rel="noreferrer"> <picture> <source srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source  srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
-  <a href="http://www.instagram.com/bazzazi" target="_blank" rel="noreferrer"> <img src="https://github.com/bazzazi/RequiredImages/blob/main/instagram.png" width="32px"/> </a>
-  <a href="https://www.linkedin.com/in/bazzazi/" target="_blank" rel="noreferrer"> <picture> <source srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
-  <a href="https://www.stackoverflow.com/users/22125953" target="_blank" rel="noreferrer"><img src="https://github.com/bazzazi/RequiredImages/blob/main/stackoverflow.png" width="32px"/> </a>
-  <a href="https://www.youtube.com/@bazzazi" target="_blank" rel="noreferrer"><img src="https://github.com/bazzazi/RequiredImages/blob/main/youtube.png" width="32px"/>  </a>
+  <a href="https://www.facebook.com/bazzazi" target="_blank" rel="noreferrer"> <img src="https://github.com/bazzazi/RequiredImages/blob/main/facebook.png" width="40px"/></a>
+  <a href="https://www.github.com/bazzazi" target="_blank" rel="noreferrer"><img src="https://github.com/bazzazi/RequiredImages/blob/main/github.png" width="40px"/></a> 
+  <a href="http://www.instagram.com/bazzazi" target="_blank" rel="noreferrer"> <img src="https://github.com/bazzazi/RequiredImages/blob/main/instagram.png" width="40px"/> </a>
+  <a href="https://www.linkedin.com/in/bazzazi/" target="_blank" rel="noreferrer"><img src="https://github.com/bazzazi/RequiredImages/blob/main/linkedin.png" width="40px"/></a>
+  <a href="https://www.stackoverflow.com/users/22125953" target="_blank" rel="noreferrer"><img src="https://github.com/bazzazi/RequiredImages/blob/main/stackoverflow.png" width="40px"/> </a>
+  <a href="https://www.youtube.com/@bazzazi" target="_blank" rel="noreferrer"><img src="https://github.com/bazzazi/RequiredImages/blob/main/youtube.png" width="40px"/>  </a>
 </p>
