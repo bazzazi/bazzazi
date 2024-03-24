@@ -5,11 +5,11 @@ Hi <img width=40 src="https://user-images.githubusercontent.com/18350557/1763097
 
 Mobile and Web Developer📱🌎
 ------------------------
-<img align='right' width=400 src="https://github.com/bazzazi/bazzazi/blob/main/images/man.gif">
+<img align='right' width=300 src="https://github.com/bazzazi/bazzazi/blob/main/images/man.gif">
 
 I've been learning code for 5 years since i went to university. I'm currently working on AI
 
-* 🌍  I'm based in Ardabil, Iran
+* 🌍  I'm based in Iran
 * ✉️  You can contact me at [contactwithbazzazi@gmail.com](mailto:contactwithbazzazi@gmail.com)
 * 🧠  I'm learning AI and it's usages in Robotics
 
