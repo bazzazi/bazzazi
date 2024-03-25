@@ -1,13 +1,12 @@
 <img src="https://github.com/bazzazi/bazzazi/blob/main/images/banner.png">
 
-Hi <img width=40 src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is Mohammad Ali Bazzazi
-============================================================================================================================================
+<h1 align="center"> Hi <img width=40 src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is Mohammad Ali Bazzazi</h1>
 
-Mobile and Web Developer📱🌎
-------------------------
-<img align='right' width=300 src="https://github.com/bazzazi/bazzazi/blob/main/images/man.gif">
+<h2 align="center">Mobile and Web Developer📱🌎</h2>
 
 I've been learning code for 5 years since i went to university. I'm currently working on AI
+
+<img align='right' width=400 src="https://github.com/bazzazi/bazzazi/blob/main/images/man.gif">
 
 * 🌍  I'm based in Iran
 * ✉️  You can contact me at [contactwithbazzazi@gmail.com](mailto:contactwithbazzazi@gmail.com)
