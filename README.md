@@ -1,9 +1,9 @@
 <img src="https://github.com/bazzazi/bazzazi/blob/main/images/banner.png">
 
-<h1 align="center"> Hi <img width=40 src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is Mohammad Ali Bazzazi</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=650&lines=Hi%2C+My+name+is+Mohammad+Ali+Bazzazi;I'm+a+Full-Stack+Developer" alt="Typing SVG" /></a></h1>
 
 <h2 align="center">Mobile and Web Developer📱🌎</h2>
-
+<h4>Hi Friends <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width=30></h4>
 I've been learning code for 5 years since i went to university. I'm currently working on AI
 
 <img align='right' width=400 src="https://github.com/bazzazi/bazzazi/blob/main/images/man.gif">
