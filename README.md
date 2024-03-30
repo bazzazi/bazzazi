@@ -1,6 +1,6 @@
 <img src="https://github.com/bazzazi/bazzazi/blob/main/images/banner.png">
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=650&lines=Hi%2C+My+name+is+Mohammad+Ali+Bazzazi;I'm+a+Full-Stack+Developer" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://github.com/bazzazi"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=650&lines=Hi%2C+My+name+is+Mohammad+Ali+Bazzazi;I'm+a+Full-Stack+Developer" alt="Typing SVG" /></a></h1>
 
 <h2 align="center">Mobile and Web Developer📱🌎</h2>
 <h4>Hi Friends <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width=30></h4>
