@@ -1,4 +1,4 @@
-<img src="https://github.com/bazzazi/bazzazi/blob/main/images/banner.png">
+<a href="https://github.com/bazzazi"><img src="https://github.com/bazzazi/bazzazi/blob/main/images/banner.png"></a>
 
 <h1 align="center"><a href="https://github.com/bazzazi"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=650&lines=Hi%2C+My+name+is+Mohammad+Ali+Bazzazi;I'm+a+Full-Stack+Developer" alt="Typing SVG" /></a></h1>
 
