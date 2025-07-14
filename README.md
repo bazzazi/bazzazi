@@ -10,7 +10,7 @@ I've been learning code for 5 years since i went to university. I'm currently wo
 
 * 🌍  I'm based in Iran
 * ✉️  You can contact me at [contactwithbazzazi@gmail.com](mailto:contactwithbazzazi@gmail.com)
-* 🧠  I'm learning AI and it's usages in Robotics
+* 🧠  I'm interested in AI 
 
 ### Skills
 
