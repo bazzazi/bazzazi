@@ -1,128 +1,217 @@
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                     🚀 BAZZAZI - GitHub Profile README                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-# 👨‍💻 Mohammad Ali Bazzazi
+<!-- Animated Header Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Bazzazi&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Developer%20%7C%20Creator%20%7C%20Dreamer&descAlignY=55&descAlign=50" />
 
-### Full-Stack Developer | Mobile & Web Specialist | AI Enthusiast
+<!-- Typing SVG Animation -->
+<a href="https://github.com/bazzazi">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=800&color=6EE7F9&center=true&vCenter=true&multiline=false&width=700&height=70&lines=👋+Hi%2C+I'm+Bazzazi;💻+Full-Stack+Developer;⚡+Open+Source+Enthusiast;🚀+Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&random=false&width=600&lines=Mobile+%26+Web+Developer;5%2B+Years+of+Experience;Passionate+About+AI;Building+Digital+Solutions" alt="Typing SVG" />
+<br/>
 
----
-
-[![GitHub followers](https://img.shields.io/github/followers/bazzazi?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=FFD700)](https://github.com/bazzazi)
-[![Email](https://img.shields.io/badge/Email-contactwithbazzazi%40gmail.com-gold?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)](mailto:contactwithbazzazi@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Iran-gold?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=black)](https://github.com/bazzazi)
+<!-- Social / Profile Badges -->
+<a href="https://github.com/bazzazi?tab=followers">
+  <img src="https://img.shields.io/github/followers/bazzazi?label=Followers&style=for-the-badge&color=6EE7F9&labelColor=0D1117&logo=github" />
+</a>
+<a href="https://github.com/bazzazi">
+  <img src="https://komarev.com/ghpvc/?username=bazzazi&label=Profile+Views&color=6EE7F9&style=for-the-badge" />
+</a>
+<a href="https://github.com/bazzazi">
+  <img src="https://img.shields.io/github/stars/bazzazi?label=Stars&style=for-the-badge&color=FBBF24&labelColor=0D1117&logo=github" />
+</a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                             ABOUT ME                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> About Me
+
+<img align="right" alt="Coding" width="380" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-08-599_512.gif"/>
 
 ```typescript
 const bazzazi = {
-    name: "Mohammad Ali Bazzazi",
-    role: "Full-Stack Developer",
-    location: "Iran 🌍",
-    experience: "5+ years",
-    currentFocus: "Artificial Intelligence",
-    passion: ["Mobile Development", "Web Applications", "AI Innovation"],
-    contact: "contactwithbazzazi@gmail.com"
+  pronouns: "he/him",
+  code: ["TypeScript", "Python", "Go", "Rust"],
+  askMeAbout: ["web dev", "tech", "app dev", "open source"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Next.js", "Vue"],
+      css: ["Tailwind", "SASS", "Framer Motion"],
+    },
+    backEnd: {
+      node: ["Express", "NestJS", "Fastify"],
+      python: ["FastAPI", "Django"],
+    },
+    devOps: ["Docker", "Kubernetes", "AWS", "CI/CD"],
+    databases: ["PostgreSQL", "MongoDB", "Redis"],
+  },
+  currentFocus: "Building scalable & beautiful products 🚀",
+  funFact: "I debug with ☕ and 🎧",
 };
 ```
 
-> 💡 **Currently Learning:** Advanced AI and Machine Learning techniques
-> 
-> 🎯 **Mission:** Creating innovative digital solutions that make a difference
+<br clear="right"/>
 
 ---
 
-## 💻 Tech Stack
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                             TECH STACK                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,java,cpp,php&theme=dark" />
+</p>
 
 ### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,svelte,nodejs,express,nestjs,fastapi,django&theme=dark" />
+</p>
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Styling & UI
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,materialui,figma&theme=dark" />
+</p>
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+### Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,aws,gcp,docker,kubernetes,linux&theme=dark" />
+</p>
 
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bazzazi&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bazzazi&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bazzazi&theme=dark&hide_border=true&background=0D1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700)
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,postman,vercel,cloudflare&theme=dark" />
+</p>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                          GITHUB STATS                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bazzazi/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/bazzazi)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bazzazi)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@bazzazi)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://www.stackoverflow.com/users/22125953)
+<a href="https://github.com/bazzazi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bazzazi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6EE7F9&icon_color=FBBF24" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bazzazi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7F9" />
+</a>
+
+<br/><br/>
+
+<!-- Streak Stats -->
+<a href="https://github.com/bazzazi">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bazzazi&theme=tokyonight&hide_border=true&background=0D1117&stroke=6EE7F9&ring=FBBF24&fire=F87171&currStreakLabel=6EE7F9" />
+</a>
+
+<br/><br/>
+
+<!-- Trophies -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=bazzazi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</a>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<a href="https://github.com/bazzazi">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bazzazi&bg_color=0D1117&color=6EE7F9&line=FBBF24&point=F87171&area=true&hide_border=true" />
+</a>
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                          SNAKE ANIMATION                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-```python
-class CurrentGoals:
-    def __init__(self):
-        self.learning = ["AI & Machine Learning", "Advanced Algorithms"]
-        self.building = ["Innovative Mobile Apps", "AI-Powered Solutions"]
-        self.exploring = ["Neural Networks", "Deep Learning"]
-    
-    def get_next_milestone(self):
-        return "Creating intelligent applications that solve real-world problems"
-```
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bazzazi/bazzazi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+> 💡 To enable this snake, create a GitHub Action at `.github/workflows/snake.yml` using [Platane/snk](https://github.com/Platane/snk).
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                          CONNECT WITH ME                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 🌐 Let's Connect
 
 <div align="center">
 
-### 💬 Quote of the Day
+<a href="https://github.com/bazzazi">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/bazzazi">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/bazzazi">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="mailto:bazzazi@example.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://t.me/bazzazi">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
 
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+</div>
 
 ---
 
-### 📈 Profile Views
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                          QUOTE                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=bazzazi&color=FFD700&style=for-the-badge&label=PROFILE+VIEWS)
+<div align="center">
+
+## 💭 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br/>
+
+### ⭐ *"First, solve the problem. Then, write the code."* — John Johnson
+
+</div>
 
 ---
 
-**⭐ From [bazzazi](https://github.com/bazzazi) with ❤️**
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                          FOLLOW CTA + FOOTER                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-*Open to collaborations and interesting projects!*
+<div align="center">
+
+### 🌟 If you like my work, please consider following me and starring my repos!
+
+<a href="https://github.com/bazzazi">
+  <img src="https://img.shields.io/badge/➕_FOLLOW_ME_ON_GITHUB-6EE7F9?style=for-the-badge&logo=github&logoColor=0D1117" />
+</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling" />
 
 </div>
