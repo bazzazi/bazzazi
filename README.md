@@ -6,14 +6,13 @@
 <div align="center">
 
 <a href="https://mohammadalibazzazi.ir">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=700&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=90&lines=Hi+%F0%9F%91%8B+I'm+Mohammad+Ali+Bazzazi;AI+Researcher+%E2%9A%A1+Full-Stack+Developer;Django+%E2%80%A2+React+%E2%80%A2+Python+%E2%80%A2+Federated+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=130&lines=Hi+%F0%9F%91%8B+I'm+Mohammad+Ali+Bazzazi;AI+Researcher+%E2%9A%A1+Full-Stack+Developer;Django+%E2%80%A2+React+%E2%80%A2+Python+%E2%80%A2+Federated+Learning" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <a href="https://mohammadalibazzazi.ir"><img src="https://img.shields.io/badge/Portfolio-mohammadalibazzazi.ir-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
 <a href="mailto:contact@mohammadalibazzazi.ir"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EC4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
-<a href="https://mohammadalibazzazi.ir/en/resume.pdf"><img src="https://img.shields.io/badge/Resume-Download%20PDF-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0D1117" /></a>
 <a href="https://github.com/bazzazi"><img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge&logo=googlemeet&logoColor=white&labelColor=0D1117" /></a>
 
 <br/>
@@ -226,7 +225,6 @@ My website — publications, certificates, projects and contact.
   <a href="mailto:contact@mohammadalibazzazi.ir"><img src="https://img.shields.io/badge/-Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
   <a href="https://github.com/bazzazi"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
   <a href="https://www.linkedin.com/in/mohammadalibazzazi/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
-  <a href="https://mohammadalibazzazi.ir/en/resume.pdf"><img src="https://img.shields.io/badge/-Resume-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0D1117"/></a>
 </p>
 
 <div align="center">
