@@ -26,7 +26,6 @@
 <br/>
 
 <!-- ========================= ABOUT ========================= -->
-<img align="right" width="380" src="https://github.com/user-attachments/assets/8f8e0b3e-3c1c-4f04-91f4-1c9f2e6a2f0f" onerror="this.style.display='none'"/>
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp; About Me
 
@@ -47,8 +46,6 @@ current:    Building scalable AI-driven web systems
 -  📚  Published across **international conferences** and authored a Linux book.
 -  💬  Ask me about **Django architecture**, **React UIs**, or **AI research**.
 -  🌱  Currently exploring **hybrid metaheuristics** for cloud task scheduling.
-
-<br clear="both"/>
 
 ---
 
@@ -82,7 +79,7 @@ current:    Building scalable AI-driven web systems
 
 <a href="https://github.com/bazzazi">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=bazzazi&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=EC4899&text_color=C9D1D9&bg_color=0D1117&include_all_commits=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=bazzazi&hide_border=true&background=0D1117&stroke=8B5CF6&ring=EC4899&fire=EC4899&currStreakLabel=8B5CF6&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
+  <img height="180" src="https://streak-stats.demolab.com?user=bazzazi&hide_border=true&background=0D1117&stroke=8B5CF6&ring=EC4899&fire=EC4899&currStreakLabel=8B5CF6&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
 </a>
 
 <br/><br/>
@@ -106,72 +103,40 @@ current:    Building scalable AI-driven web systems
 
 ---
 
-<!-- ========================= PROJECTS ========================= -->
+<!-- ========================= PROJECTS (DYNAMIC) ========================= -->
 
 ### 🚀 &nbsp; Featured Projects
 
+> Auto-updated daily by a GitHub Action — showing my **top 4 starred, most recent** repositories.
+
+<!-- FEATURED:START -->
 <table>
 <tr>
 <td width="50%" valign="top">
-
-<a href="https://github.com/bazzazi/luxa-shop">
-  <img src="https://mohammadalibazzazi.ir/media/projects/2026-06-29_00_18_06-.png" width="100%"/>
+<a href="https://github.com/bazzazi/IRSystem">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bazzazi&repo=IRSystem&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=C9D1D9" width="100%"/>
 </a>
-
-#### 🛍️ Luxa — Modern E-Shop Template
-A polished, responsive e-commerce front-end template with a dark, editorial aesthetic.  
-`HTML` • `CSS` • `JavaScript`
-
-<a href="https://e-shotproject.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-8B5CF6?style=flat-square&logo=netlify&logoColor=white"/></a>
-<a href="https://github.com/bazzazi/luxa-shop"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
-
 </td>
 <td width="50%" valign="top">
-
-<a href="https://github.com/bazzazi/Weather_forecast_website">
-  <img src="https://mohammadalibazzazi.ir/media/projects/shot_desktop.png" width="100%"/>
+<a href="https://github.com/bazzazi/Unfollower-Bot-for-instagram">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bazzazi&repo=Unfollower-Bot-for-instagram&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=C9D1D9" width="100%"/>
 </a>
-
-#### 🌦️ Aura — Weather Forecast App
-Beautiful, animated weather dashboard with live data and multi-city support.  
-`HTML` • `CSS` • `JavaScript`
-
-<a href="https://weatherforcastwebsite.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-EC4899?style=flat-square&logo=netlify&logoColor=white"/></a>
-<a href="https://github.com/bazzazi/Weather_forecast_website"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
-
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-<a href="https://github.com/bazzazi/DineManage-Restaurant-CMS-Dashboard">
-  <img src="https://mohammadalibazzazi.ir/media/projects/shot_desk.png" width="100%"/>
+<a href="https://github.com/bazzazi/Auto_post_Bot_for_instagram">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bazzazi&repo=Auto_post_Bot_for_instagram&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=C9D1D9" width="100%"/>
 </a>
-
-#### 🍽️ DineManage — Restaurant CMS
-A full-featured admin dashboard for restaurant operations, orders and analytics.  
-`HTML` • `CSS` • `JavaScript`
-
-<a href="https://dinemanage-restaurant-cms-dashboard.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-6366F1?style=flat-square&logo=netlify&logoColor=white"/></a>
-<a href="https://github.com/bazzazi/DineManage-Restaurant-CMS-Dashboard"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
-
 </td>
 <td width="50%" valign="top">
-
-<a href="https://mohammadalibazzazi.ir">
-  <img src="https://opengraph.githubassets.com/1/bazzazi/bazzazi" width="100%"/>
+<a href="https://github.com/bazzazi/spam_bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bazzazi&repo=spam_bot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=C9D1D9" width="100%"/>
 </a>
-
-#### 🌐 Personal Portfolio & Research Hub
-My website — publications, certificates, projects and contact.  
-`Django` • `Python` • `PostgreSQL`
-
-<a href="https://mohammadalibazzazi.ir"><img src="https://img.shields.io/badge/Visit%20Site-8B5CF6?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/bazzazi"><img src="https://img.shields.io/badge/More%20Repos-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
-
 </td>
 </tr>
 </table>
+<!-- FEATURED:END -->
 
 ---
 
@@ -195,11 +160,7 @@ My website — publications, certificates, projects and contact.
 
 ### 🐍 &nbsp; Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bazzazi/bazzazi/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bazzazi/bazzazi/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
+<img alt="Snake animation" src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" />
 
 </div>
 
@@ -210,36 +171,13 @@ My website — publications, certificates, projects and contact.
 <div align="center">
 
 ### 💭 &nbsp; Dev Quote of the Day
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
 ---
 
-<!-- ========================= CONNECT ========================= -->
-
-### 🌐 &nbsp; Let's Connect
-
-<p align="center">
-  <a href="https://mohammadalibazzazi.ir"><img src="https://img.shields.io/badge/-Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117"/></a>
-  <a href="mailto:contact@mohammadalibazzazi.ir"><img src="https://img.shields.io/badge/-Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
-  <a href="https://github.com/bazzazi"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
-  <a href="https://www.linkedin.com/in/mohammadalibazzazi/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
-</p>
-
-<div align="center">
-
-### ⭐ &nbsp; If you find my work useful, consider following me and starring my repos!
-
-<a href="https://github.com/bazzazi">
-  <img src="https://img.shields.io/badge/%E2%9E%9C%20Follow%20%40bazzazi-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-</a>
-
-</div>
-
 <!-- ========================= FOOTER ========================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=140&section=footer&animation=twinkling" alt="footer"/>
 
-<div align="center">
-  <sub>Crafted with ❤️ by <a href="https://mohammadalibazzazi.ir">Mohammad Ali Bazzazi</a> &nbsp;·&nbsp; Ardabil, Iran 🇮🇷</sub>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=120&section=footer" />
