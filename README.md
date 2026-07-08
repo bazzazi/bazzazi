@@ -113,25 +113,25 @@ current:    Building scalable AI-driven web systems
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/bazzazi/IRSystem">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bazzazi&repo=IRSystem&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=C9D1D9" width="100%"/>
+<a href="https://github.com/bazzazi/DineManage-Restaurant-CMS-Dashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bazzazi&repo=DineManage-Restaurant-CMS-Dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=C9D1D9" width="100%"/>
 </a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/bazzazi/Unfollower-Bot-for-instagram">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bazzazi&repo=Unfollower-Bot-for-instagram&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=C9D1D9" width="100%"/>
+<a href="https://github.com/bazzazi/luxa-shop">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bazzazi&repo=luxa-shop&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=C9D1D9" width="100%"/>
 </a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/bazzazi/Auto_post_Bot_for_instagram">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bazzazi&repo=Auto_post_Bot_for_instagram&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=C9D1D9" width="100%"/>
+<a href="https://github.com/bazzazi/Weather_forecast_website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bazzazi&repo=Weather_forecast_website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=C9D1D9" width="100%"/>
 </a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/bazzazi/spam_bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bazzazi&repo=spam_bot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=C9D1D9" width="100%"/>
+<a href="https://github.com/bazzazi/type_language_mistake_fix">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bazzazi&repo=type_language_mistake_fix&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=C9D1D9" width="100%"/>
 </a>
 </td>
 </tr>
