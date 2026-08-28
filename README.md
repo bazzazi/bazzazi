@@ -125,13 +125,13 @@ current:    Building scalable AI-driven web systems
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/bazzazi/libraryManagementApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bazzazi&repo=libraryManagementApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=C9D1D9" width="100%"/>
+<a href="https://github.com/bazzazi/snake_game_mobile_kivy">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bazzazi&repo=snake_game_mobile_kivy&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=C9D1D9" width="100%"/>
 </a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/bazzazi/snake_game_mobile_kivy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bazzazi&repo=snake_game_mobile_kivy&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=C9D1D9" width="100%"/>
+<a href="https://github.com/bazzazi/libraryManagementApp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bazzazi&repo=libraryManagementApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=C9D1D9" width="100%"/>
 </a>
 </td>
 </tr>
